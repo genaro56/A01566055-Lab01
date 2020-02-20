@@ -1,0 +1,37 @@
+#header {
+    text-align: center;   
+}
+
+body {
+    padding: 50px;
+    height: 100vh;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#photo {
+    display: flex;
+    align-self: right;
+    width: 200px;
+    height: 300px;
+    margin: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(./53-0-2.jpg);
+    border: turquoise 21px solid;
+}
+.title {
+    font-weight: bold;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.orderedInfo {
+    margin-left: 10px;
+}
+
+li {
+    margin-left: 5px;
+}
